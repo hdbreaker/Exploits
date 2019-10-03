@@ -1,0 +1,12 @@
+1) Bypass ASLR remotely, get code execution and pop calc.exe or notepad.exe in order to ensure the system is fully under your control. Be careful, process continuation is key to ensure all systems continue to function properly.
+-> Get memory Leak
+
+
+Your exploit must work in the 64-bit version of Windows 10 Redstone 6
+-> Download VM
+
+Solutions will be accepted in Python
+-> Code Exploit
+
+If you succeed, you will get an invite to the BFS-IOACTIVE party and a chance to join the BFS security research team.
+Solutions should be sent to challenge@bluefrostsecurity.de and your full name needs to be provided in order to claim a free ticket.
